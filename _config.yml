@@ -22,6 +22,7 @@ twitter_username: jamesfstahl
 github_username: james-stahl
 minimal_mistakes_skin: sunrise
 search: true
+url: "https://james-stahl.github.io"
 
 # Build settings
 markdown: kramdown
@@ -60,7 +61,7 @@ plugins:
 author:
   name   : "James Stahl"
   avatar : "/assets/images/meew-large-centered.png"
-  bio    : "Hobbyist."
+  # bio    : "Nobel laureate (manifesting)."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
