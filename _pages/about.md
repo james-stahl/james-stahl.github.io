@@ -3,6 +3,18 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## whoami
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am an engaged cat-dad who hacks for a living.
+
+Before learning how to capital-h 'Hack', I was always a [hacker](https://web.archive.org/web/20160516153012/https://tools.ietf.org/html/rfc1392). 
+
+I want to know how things work.
+
+## Interests
+
+I spend time hacking, tinkering, making music, playing [video/board]games, and more. I wanted a space to share what I am doing and hopefully provide help/insight for others with similar interests.
+
+Overall, most things technology-related interest me. This includes using technology, but it also includes the ethics and philosophy surrounding it.
+
+Why have we collectively decided that `progress == making rocks think harder`?
