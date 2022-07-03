@@ -6,16 +6,16 @@ search: false
 @charset "utf-8";
 
 // https://ethanschoonover.com/solarized/
-$body-color : #073642; // Base02
-$background-color : #002b36; // Base03
-$text-color : #657b83; // Base00
-$muted-text-color : #586e75; // Base01
+$body-color : #073642; // base02
+$background-color : #002b36; // base03
+$text-color : #657b83; // base00
+$muted-text-color : #586e75; // base01 
 $primary-color: #dc322f; // red
 $link-color : #268bd2; // blue
 $masthead-link-color : #cb4b16; // orange
-$footer-background-color : #eee8d5; // Base2
+$footer-background-color : #073642; // base02
 $border-color : #cb4b16; // orange
+$inverse-color : #002b36; // base2
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
